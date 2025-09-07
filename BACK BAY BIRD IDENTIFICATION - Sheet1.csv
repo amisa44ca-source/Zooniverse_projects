@@ -199,4 +199,37 @@
 197,No,-
 198,No,-
 199,No,-
+
 200,No,-
+
+
+
+This project analyzed camera trap images to identify the presence of birds/ wildlife creatures. Volunteers classify images and contribute to shaping coastal science.Findings from this project will provide valuable insights into bird habitat usage and the effectiveness of living shorelines. Observations have been recorded on 200 images in this project.
+
+
+METHODS:
+For each image, I recorded whether any human, birds or wildlife creature was present. I used google sheets to tally and create the chart.
+
+RESULTS: 
+No birds were detected in this batch. This confirms low activity in camera trap location during the monitored period.11 images contained humans—possibly park visitors.
+
+
+SUMMARY:
+Category                           Count                                % of total
+
+Bird/ Wildlife Visible           5                                           2.5% 
+
+No Wildlife Visible                 195                                           95.5%                                         
+ 
+
+
+Conclusion: 
+The lack of bird visibility could be:
+Non-bird-centric project
+Seasonal or migratory timing
+Camera placement
+Birds in motion
+Camouflage and scale
+Poor visibility
+
+Even the absence of bird visibility provides researchers important data about when and where birds aren’t present. It also showcases how often human activity can be captured. This project demonstrates how community science can support wildlife research.
