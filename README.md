@@ -4,8 +4,6 @@ This repository contains documentation and analysis of my volunteer work on Zoon
 - Raw Data (Google Sheets / CSV files)
 - Project Summaries (Google Docs reports)
 - Charts & Visualizations showing observations and trends
-
-##Notes
 - All work reflects careful observation, efforts, data recording and analysis.
 - No assumptions has been made; only identifiable objects/ creatures were recorded.
 - Charts use pastel color schemes for visual clarity and readability. 
