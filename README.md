@@ -6,5 +6,6 @@ This repository contains documentation and analysis of my volunteer work on Zoon
 - Charts & Visualizations showing observations and trends
 - All work reflects careful observation, efforts, data recording and analysis.
 - No assumptions has been made; only identifiable objects/ creatures were recorded.
-- Charts use pastel color schemes for visual clarity and readability. 
+- Charts use pastel color schemes for visual clarity and readability.
+- The newer files have been written in APA format for practice.
 
